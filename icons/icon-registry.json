@@ -1,0 +1,1405 @@
+{
+  "version": "0.0.2",
+  "icons": [
+    {
+      "name": "alert-circle-full16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"alert-circle-full16\" />"
+    },
+    {
+      "name": "alert-circle-full24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"alert-circle-full24\" />"
+    },
+    {
+      "name": "american-express32",
+      "sizes": [
+        32
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"american-express32\" />"
+    },
+    {
+      "name": "american-express48",
+      "sizes": [
+        48
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"american-express48\" />"
+    },
+    {
+      "name": "appointments16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"appointments16\" />"
+    },
+    {
+      "name": "appointments24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"appointments24\" />"
+    },
+    {
+      "name": "arrow-left16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"arrow-left16\" />"
+    },
+    {
+      "name": "arrow-left24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"arrow-left24\" />"
+    },
+    {
+      "name": "arrow-right16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"arrow-right16\" />"
+    },
+    {
+      "name": "arrow-right24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"arrow-right24\" />"
+    },
+    {
+      "name": "arrow-up16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"arrow-up16\" />"
+    },
+    {
+      "name": "arrow-up24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"arrow-up24\" />"
+    },
+    {
+      "name": "attachment16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"attachment16\" />"
+    },
+    {
+      "name": "attachment24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"attachment24\" />"
+    },
+    {
+      "name": "back16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"back16\" />"
+    },
+    {
+      "name": "back24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"back24\" />"
+    },
+    {
+      "name": "back24bolder",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"back24bolder\" />"
+    },
+    {
+      "name": "balance-credit16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"balance-credit16\" />"
+    },
+    {
+      "name": "breadcrumb-arrow12",
+      "sizes": [
+        12
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"breadcrumb-arrow12\" />"
+    },
+    {
+      "name": "breadcrumb-arrow16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"breadcrumb-arrow16\" />"
+    },
+    {
+      "name": "calendar16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"calendar16\" />"
+    },
+    {
+      "name": "calendar24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"calendar24\" />"
+    },
+    {
+      "name": "calendar24bolder",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"calendar24bolder\" />"
+    },
+    {
+      "name": "camera16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"camera16\" />"
+    },
+    {
+      "name": "camera24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"camera24\" />"
+    },
+    {
+      "name": "campaign16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"campaign16\" />"
+    },
+    {
+      "name": "cancel16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"cancel16\" />"
+    },
+    {
+      "name": "cancel24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"cancel24\" />"
+    },
+    {
+      "name": "cancel24bolder",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"cancel24bolder\" />"
+    },
+    {
+      "name": "chat16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"chat16\" />"
+    },
+    {
+      "name": "chat24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"chat24\" />"
+    },
+    {
+      "name": "check-circle16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"check-circle16\" />"
+    },
+    {
+      "name": "check-circle24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"check-circle24\" />"
+    },
+    {
+      "name": "check-circle32",
+      "sizes": [
+        32
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"check-circle32\" />"
+    },
+    {
+      "name": "checkmark12",
+      "sizes": [
+        12
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"checkmark12\" />"
+    },
+    {
+      "name": "checkmark16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"checkmark16\" />"
+    },
+    {
+      "name": "checkmark24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"checkmark24\" />"
+    },
+    {
+      "name": "checkmark8",
+      "sizes": [
+        8
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"checkmark8\" />"
+    },
+    {
+      "name": "clock16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"clock16\" />"
+    },
+    {
+      "name": "clock24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"clock24\" />"
+    },
+    {
+      "name": "consumer16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"consumer16\" />"
+    },
+    {
+      "name": "consumer24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"consumer24\" />"
+    },
+    {
+      "name": "credit-card16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"credit-card16\" />"
+    },
+    {
+      "name": "credits16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"credits16\" />"
+    },
+    {
+      "name": "credits24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"credits24\" />"
+    },
+    {
+      "name": "credits24bolder",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"credits24bolder\" />"
+    },
+    {
+      "name": "crown16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"crown16\" />"
+    },
+    {
+      "name": "crown24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"crown24\" />"
+    },
+    {
+      "name": "delete16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"delete16\" />"
+    },
+    {
+      "name": "delete24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"delete24\" />"
+    },
+    {
+      "name": "dollar16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"dollar16\" />"
+    },
+    {
+      "name": "down-arrow-select16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"down-arrow-select16\" />"
+    },
+    {
+      "name": "down-chevron16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"down-chevron16\" />"
+    },
+    {
+      "name": "download16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"download16\" />"
+    },
+    {
+      "name": "ecobonus16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"ecobonus16\" />"
+    },
+    {
+      "name": "ecobonus24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"ecobonus24\" />"
+    },
+    {
+      "name": "euro16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"euro16\" />"
+    },
+    {
+      "name": "euro24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"euro24\" />"
+    },
+    {
+      "name": "external-link16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"external-link16\" />"
+    },
+    {
+      "name": "filter16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"filter16\" />"
+    },
+    {
+      "name": "filter24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"filter24\" />"
+    },
+    {
+      "name": "hamburger16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"hamburger16\" />"
+    },
+    {
+      "name": "hamburger24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"hamburger24\" />"
+    },
+    {
+      "name": "hamburger24bolder",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"hamburger24bolder\" />"
+    },
+    {
+      "name": "hide-password16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"hide-password16\" />"
+    },
+    {
+      "name": "hide-password24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"hide-password24\" />"
+    },
+    {
+      "name": "hired16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"hired16\" />"
+    },
+    {
+      "name": "hired24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"hired24\" />"
+    },
+    {
+      "name": "image16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"image16\" />"
+    },
+    {
+      "name": "inbox16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"inbox16\" />"
+    },
+    {
+      "name": "inbox24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"inbox24\" />"
+    },
+    {
+      "name": "inbox24bolder",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"inbox24bolder\" />"
+    },
+    {
+      "name": "info-full16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"info-full16\" />"
+    },
+    {
+      "name": "info-full24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"info-full24\" />"
+    },
+    {
+      "name": "info16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"info16\" />"
+    },
+    {
+      "name": "info24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"info24\" />"
+    },
+    {
+      "name": "insights16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"insights16\" />"
+    },
+    {
+      "name": "insights24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"insights24\" />"
+    },
+    {
+      "name": "insights24bolder",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"insights24bolder\" />"
+    },
+    {
+      "name": "job16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"job16\" />"
+    },
+    {
+      "name": "job24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"job24\" />"
+    },
+    {
+      "name": "left-chevron16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"left-chevron16\" />"
+    },
+    {
+      "name": "left-chevron24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"left-chevron24\" />"
+    },
+    {
+      "name": "light-bulb16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"light-bulb16\" />"
+    },
+    {
+      "name": "light-bulb24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"light-bulb24\" />"
+    },
+    {
+      "name": "location-pin16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"location-pin16\" />"
+    },
+    {
+      "name": "location-pin24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"location-pin24\" />"
+    },
+    {
+      "name": "location-pin24bolder",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"location-pin24bolder\" />"
+    },
+    {
+      "name": "lock-closed16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"lock-closed16\" />"
+    },
+    {
+      "name": "lock-closed24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"lock-closed24\" />"
+    },
+    {
+      "name": "logout16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"logout16\" />"
+    },
+    {
+      "name": "master-card32",
+      "sizes": [
+        32
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"master-card32\" />"
+    },
+    {
+      "name": "master-card48",
+      "sizes": [
+        48
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"master-card48\" />"
+    },
+    {
+      "name": "merchant16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"merchant16\" />"
+    },
+    {
+      "name": "merchant24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"merchant24\" />"
+    },
+    {
+      "name": "minus16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"minus16\" />"
+    },
+    {
+      "name": "minus24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"minus24\" />"
+    },
+    {
+      "name": "navigation16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"navigation16\" />"
+    },
+    {
+      "name": "navigation24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"navigation24\" />"
+    },
+    {
+      "name": "notification-bell16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"notification-bell16\" />"
+    },
+    {
+      "name": "notification-bell24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"notification-bell24\" />"
+    },
+    {
+      "name": "pause16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"pause16\" />"
+    },
+    {
+      "name": "pause24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"pause24\" />"
+    },
+    {
+      "name": "pay-pal32",
+      "sizes": [
+        32
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"pay-pal32\" />"
+    },
+    {
+      "name": "phone16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"phone16\" />"
+    },
+    {
+      "name": "phone24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"phone24\" />"
+    },
+    {
+      "name": "plus16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"plus16\" />"
+    },
+    {
+      "name": "plus24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"plus24\" />"
+    },
+    {
+      "name": "promotional-material16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"promotional-material16\" />"
+    },
+    {
+      "name": "quick-response16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"quick-response16\" />"
+    },
+    {
+      "name": "quick-response24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"quick-response24\" />"
+    },
+    {
+      "name": "quotes16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"quotes16\" />"
+    },
+    {
+      "name": "quotes24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"quotes24\" />"
+    },
+    {
+      "name": "rate16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"rate16\" />"
+    },
+    {
+      "name": "refresh16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"refresh16\" />"
+    },
+    {
+      "name": "refresh24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"refresh24\" />"
+    },
+    {
+      "name": "request16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"request16\" />"
+    },
+    {
+      "name": "request24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"request24\" />"
+    },
+    {
+      "name": "right-chevron16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"right-chevron16\" />"
+    },
+    {
+      "name": "right-chevron24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"right-chevron24\" />"
+    },
+    {
+      "name": "search16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"search16\" />"
+    },
+    {
+      "name": "search24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"search24\" />"
+    },
+    {
+      "name": "search24bolder",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"search24bolder\" />"
+    },
+    {
+      "name": "services16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"services16\" />"
+    },
+    {
+      "name": "services24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"services24\" />"
+    },
+    {
+      "name": "services24bolder",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"services24bolder\" />"
+    },
+    {
+      "name": "settings16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"settings16\" />"
+    },
+    {
+      "name": "share16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"share16\" />"
+    },
+    {
+      "name": "share24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"share24\" />"
+    },
+    {
+      "name": "shield-check12",
+      "sizes": [
+        12
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"shield-check12\" />"
+    },
+    {
+      "name": "shield-check16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"shield-check16\" />"
+    },
+    {
+      "name": "shield-check24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"shield-check24\" />"
+    },
+    {
+      "name": "show-password16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"show-password16\" />"
+    },
+    {
+      "name": "show-password24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"show-password24\" />"
+    },
+    {
+      "name": "sms16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"sms16\" />"
+    },
+    {
+      "name": "sorting16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"sorting16\" />"
+    },
+    {
+      "name": "sorting24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"sorting24\" />"
+    },
+    {
+      "name": "star16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"star16\" />"
+    },
+    {
+      "name": "star24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"star24\" />"
+    },
+    {
+      "name": "support16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"support16\" />"
+    },
+    {
+      "name": "switch16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"switch16\" />"
+    },
+    {
+      "name": "thumb-up24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"thumb-up24\" />"
+    },
+    {
+      "name": "top-pro16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"top-pro16\" />"
+    },
+    {
+      "name": "top-pro24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"top-pro24\" />"
+    },
+    {
+      "name": "unavailable16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"unavailable16\" />"
+    },
+    {
+      "name": "unavailable24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"unavailable24\" />"
+    },
+    {
+      "name": "unknown-card-outlined32",
+      "sizes": [
+        32
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"unknown-card-outlined32\" />"
+    },
+    {
+      "name": "unknown-card-outlined48",
+      "sizes": [
+        48
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"unknown-card-outlined48\" />"
+    },
+    {
+      "name": "unknown-card16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"unknown-card16\" />"
+    },
+    {
+      "name": "unknown-card24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"unknown-card24\" />"
+    },
+    {
+      "name": "up-arrow-select16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"up-arrow-select16\" />"
+    },
+    {
+      "name": "up-chevron16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"up-chevron16\" />"
+    },
+    {
+      "name": "upload-file16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"upload-file16\" />"
+    },
+    {
+      "name": "upload-file24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"upload-file24\" />"
+    },
+    {
+      "name": "upload16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"upload16\" />"
+    },
+    {
+      "name": "upload24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"upload24\" />"
+    },
+    {
+      "name": "upload24bolder",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"upload24bolder\" />"
+    },
+    {
+      "name": "user16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"user16\" />"
+    },
+    {
+      "name": "user24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"user24\" />"
+    },
+    {
+      "name": "user24bolder",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"user24bolder\" />"
+    },
+    {
+      "name": "verified16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"verified16\" />"
+    },
+    {
+      "name": "verified24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"verified24\" />"
+    },
+    {
+      "name": "visa32",
+      "sizes": [
+        32
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"visa32\" />"
+    },
+    {
+      "name": "visa48",
+      "sizes": [
+        48
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"visa48\" />"
+    },
+    {
+      "name": "wallet16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"wallet16\" />"
+    },
+    {
+      "name": "warning12",
+      "sizes": [
+        12
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"warning12\" />"
+    },
+    {
+      "name": "warning16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"warning16\" />"
+    },
+    {
+      "name": "whats-app16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"whats-app16\" />"
+    },
+    {
+      "name": "whats-app24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"whats-app24\" />"
+    },
+    {
+      "name": "won-jobs16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"won-jobs16\" />"
+    },
+    {
+      "name": "won-jobs24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"won-jobs24\" />"
+    },
+    {
+      "name": "write16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"write16\" />"
+    },
+    {
+      "name": "write24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"write24\" />"
+    },
+    {
+      "name": "xcircle-full-icon16",
+      "sizes": [
+        16
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"xcircle-full-icon16\" />"
+    },
+    {
+      "name": "xcircle-full-icon24",
+      "sizes": [
+        24
+      ],
+      "category": "unsorted",
+      "usage": "<Icon name=\"xcircle-full-icon24\" />"
+    }
+  ]
+}

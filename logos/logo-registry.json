@@ -1,0 +1,23 @@
+{
+  "version": "0.0.1",
+  "logos": [
+    {
+      "brand": "armut",
+      "viewBox": "0 0 100 32",
+      "variantFills": true,
+      "usage": "<Logo brand=\"armut\" />"
+    },
+    {
+      "brand": "homerun",
+      "viewBox": "0 0 142 28",
+      "variantFills": true,
+      "usage": "<Logo brand=\"homerun\" />"
+    },
+    {
+      "brand": "prontopro",
+      "viewBox": "0 0 143 20",
+      "variantFills": true,
+      "usage": "<Logo brand=\"prontopro\" />"
+    }
+  ]
+}
